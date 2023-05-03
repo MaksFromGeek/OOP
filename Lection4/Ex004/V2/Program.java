@@ -1,4 +1,4 @@
-package org.example.Lection4.Ex004.V2;
+package org.example.lection4.Ex004.V2;
 
 public class Program {
     public static void main(String[] args) {

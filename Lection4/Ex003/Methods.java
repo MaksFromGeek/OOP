@@ -1,4 +1,4 @@
-package org.example.Lection4.Ex003;
+package org.example.lection4.Ex003;
 
 import java.util.HashMap;
 import java.util.List;

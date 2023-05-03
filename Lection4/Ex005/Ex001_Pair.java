@@ -1,4 +1,4 @@
-package org.example.Lection4.Ex005;
+package org.example.lection4.Ex005;
 
 public class Ex001_Pair {
     public static void main(String[] args) {

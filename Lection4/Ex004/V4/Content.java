@@ -1,4 +1,4 @@
-package org.example.Lection4.Ex004.V4;
+package org.example.lection4.Ex004.V4;
 
 public abstract class Content {
     public String name;

@@ -1,4 +1,4 @@
-package org.example.Lection4.Ex004.V2;
+package org.example.lection4.Ex004.V2;
 
 public class VideoContent extends Content {
     public VideoContent(String name) {

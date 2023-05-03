@@ -1,4 +1,4 @@
-package org.example.Lection4.Ex003;
+package org.example.lection4.Ex003;
 
 public class ParameterizedWorker<E> {
     private E id;

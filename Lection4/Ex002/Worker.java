@@ -1,4 +1,4 @@
-package org.example.Lection4.Ex002;
+package org.example.lection4.Ex002;
 
 public class Worker {
     private int id;

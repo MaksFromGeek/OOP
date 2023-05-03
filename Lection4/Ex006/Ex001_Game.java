@@ -1,4 +1,4 @@
-package org.example.Lection4.Ex006;
+package org.example.lection4.Ex006;
 
 import java.util.ArrayList;
 import java.util.List;
